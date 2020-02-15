@@ -1,6 +1,8 @@
 traefik-certificate-extractor
 =============================
 
+**Since I do not use traefik anymore this project is no longer maintained and probably does not work with traefik versions newer than 1.7.**
+
 A small utility which monitors a traefik-managed acme.json and extracts the plain certificate-files from it.
 
 This is a fork based on the [excelent work of MaZderMind](https://github.com/MaZderMind/traefik-certificate-extractor).
